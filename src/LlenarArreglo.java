@@ -9,6 +9,7 @@ public class LlenarArreglo {
 
         System.out.println("Los 100 primero numeros mostrados en forma descendente:");
         System.out.println("Linea nueva");
+        System.out.println("Linea nueva2");
         for(int i=0; i<5000;i++){
             System.out.println(arregloNumerosEnteros[i] + "");
             /*if(arregloNumerosEnteros[i] == 55){
