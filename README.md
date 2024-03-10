@@ -1,9 +1,11 @@
-Bootcamp SENSE Talento Digital - DESARROLLO DE APLICACIONES MÓVILES ANDROID TRAINEE 2024
-Duración: 480 Horas
+# Bootcamp SENSE Talento Digital - DESARROLLO DE APLICACIONES MÓVILES ANDROID TRAINEE 2024
+### Duración: 480 Horas
 
-Relator Certificado: Agustín Romero Salazar 
-Ingeniero de Ejecución en informática
-Pontificia Universidad Católica de Valparaíso.
+### Relator Certificado: Agustín Romero Salazar 
+
+### Ingeniero de Ejecución en informática
+
+### Pontificia Universidad Católica de Valparaíso.
 
 
 ¡Bienvenido al Bootcamp SENSE Talento Digital de Desarrollo de Aplicaciones Móviles Android! Este programa intensivo está diseñado para proporcionarte las habilidades necesarias para ingresar al emocionante mundo del desarrollo de aplicaciones móviles Android. Con la guía de nuestro relator certificado y experto en la materia, Agustín Romero Salazar, Ingeniero de Ejecución en informática de la Pontificia Universidad Católica de Valparaíso, estarás listo para enfrentar los desafíos del mundo laboral en poco tiempo.
