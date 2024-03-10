@@ -10,6 +10,10 @@
 
 ## ¡Bienvenido al Bootcamp SENSE Talento Digital de Desarrollo de Aplicaciones Móviles Android!
 
+ <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+ </p>
+
 Este programa intensivo está diseñado para proporcionarte las habilidades necesarias para ingresar al emocionante mundo del desarrollo de aplicaciones móviles Android. Con la guía de nuestro relator certificado y experto en la materia, estarás listo para enfrentar los desafíos del mundo laboral en poco tiempo.
 
 ## Objetivo del Curso
