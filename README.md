@@ -27,12 +27,23 @@ Nuestro bootcamp se basa en un modelo de enseñanza-aprendizaje altamente intens
 ## Módulos del Curso
 
 Módulo 1: Orientación al Perfil y Metodología del Curso
+
 Módulo 2: Fundamentos de Programación en Java
+
+<strong>Repositorio JAVA POO: </strong>
+
+https://github.com/agusCode88/poo_java_bootcamp2024.git
+
 Módulo 3: Fundamentos de Bases de Datos Relacionales
+
 Módulo 4: Desarrollo de la Interfaz de Usuario Android
+
 Módulo 5: Arquitectura y Ciclo de Vida de Componentes Android
+
 Módulo 6: Desarrollo de Aplicaciones Empresariales Android
+
 Módulo 7: Desarrollo de Portafolio de un Producto Digital
+
 Módulo 8: Desarrollo de Empleabilidad en la Industria Digital
 
 ## Postulaciones
