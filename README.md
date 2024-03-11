@@ -41,7 +41,6 @@ Nuestro bootcamp se basa en un modelo de enseñanza-aprendizaje altamente intens
 https://github.com/agusCode88/bootcamp-android2024/tree/master/src
 
 <strong>Repositorio JAVA POO: </strong>
-
 https://github.com/agusCode88/poo_java_bootcamp2024.git
 
 ### Módulo 3: Fundamentos de Bases de Datos Relacionales
