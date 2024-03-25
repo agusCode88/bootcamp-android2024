@@ -49,8 +49,8 @@ https://github.com/agusCode88/herenciaJAVA_bootcamp2024/tree/master
 <strong>Repositorio de Abstracción e interfaces en JAVA: </strong>
 https://github.com/agusCode88/herenciaJAVA_bootcamp2024/tree/master
 
-<strong>Repositorio de Ayudantía POO JAVA (Ejercicio Frutería) : </strong>
-[https://github.com/agusCode88/herenciaJAVA_bootcamp2024/tree/master](https://github.com/agusCode88/fruteria_pooJAVA)
+<strong>Repositorio de Test Unitarios JAVA(Ejercicio Frutería) : </strong>
+https://github.com/agusCode88/test_unitarios_java/tree/main
 
 ### Módulo 3: Fundamentos de Bases de Datos Relacionales
 
