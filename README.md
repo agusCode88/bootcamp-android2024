@@ -63,6 +63,8 @@ https://github.com/noscriptph?tab=repositories
 https://github.com/agusCode88/select_yor_beer_android/tree/master
 
 ### Módulo 5: Arquitectura y Ciclo de Vida de Componentes Android
+<strong>Curso completo de Kotlin </strong>
+https://github.com/agusCode88/CursoAndroidKotlin/tree/Clases_Kotlin
 
 ### Módulo 6: Desarrollo de Aplicaciones Empresariales Android
 
